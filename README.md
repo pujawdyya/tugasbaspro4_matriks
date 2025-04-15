@@ -38,7 +38,7 @@ hasil = []
 
 ### Penjelasan:
 
-- Melakukan Inisalisasi untuk hasil dari matrix
+- Melakukan Inisalisasi untuk hasil dari matriks
 
 ---
 
@@ -75,7 +75,7 @@ for row in hasil:
 
 ### Penjelasan:
 
-- Menampilkan Output dari hasil perkalin matrix
+- Menampilkan Output dari hasil perkalian matriks
 
 ---
 
